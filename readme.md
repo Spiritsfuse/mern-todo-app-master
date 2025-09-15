@@ -1,7 +1,7 @@
 # Installation
 Run the following command to clone the repository
 ```
-git clone https://github.com/spiritsfuse/mern-todo-app.git
+git clone https://github.com/spiritsfuse/mern-todo-app-master.git
 ```
 Go to ```frontend``` and ```backend``` directory to install packages
 ```
